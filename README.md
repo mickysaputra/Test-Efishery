@@ -20,3 +20,8 @@ mvn clean verify
 untuk report bisa diliat di direktori target/site/testefishery/index.html
 open with browser
 
+![Screen Shot 2022-02-10 at 17 06 46](https://user-images.githubusercontent.com/40191179/153384952-e65f8c0e-f450-4565-b3c3-52d5bf82b5e2.png)
+
+![Screen Shot 2022-02-10 at 17 06 54](https://user-images.githubusercontent.com/40191179/153384967-d021d3fc-c0b0-481d-9408-1beb57eb2177.png)
+
+![Screen Shot 2022-02-10 at 17 07 11](https://user-images.githubusercontent.com/40191179/153384975-ce5a045e-d9ad-4c40-ac62-5d6a2fce5165.png)
